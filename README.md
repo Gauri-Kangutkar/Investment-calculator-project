@@ -1,27 +1,71 @@
-# Essentials
+# Task Management   
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+## Table of Content  
+1.Installation  
+2.Usage  
+3.Features  
+4.Technologies Used  
+5.Screenshots  
+6.API Documentation  
+7.Contributing  
+8.License  
+9.Contact  
+### Installation:  
+Open the code editor *for e.g VS Code*  
+In bash/terminal:  
+#### clone the repository  
+```
+git clone https://github.com/Gauri-kangutkar/Task-Management-project.git
+```
+### Navigate to the project directory:
+```
+cd Task-Management-project
+```
+### Install dependencies:
+```
+npm install
+```
+### Start development server
+```
+npm start
+```
+### Usage:
+On Home Page you can see the list of name.   
+1.click on any name to open their tasks.  
+2.Click on **Add Task** button for adding any new tasks.  
+3.Write title,description and date of task.  
+4.Click on **Add**.  
+5.Click on **Complete** button after completing the task.  
 
-## Development server
+### Features:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Technologies Used:  
 
-## Code scaffolding
+-Angular CLI 18.1.2  
+-Typescript xx  
+-JavaScript  
+-CSS  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Contributing:  
 
-## Build
+1.Fork the project  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. Create your feature branch
+```
+git checkout -b feature/NameOfFeature
+```
+3.commit your changes  
+```
+git commit -m ‘add some changes’
+```  
+4.push to the branch  
+```
+git push origin feature/NameOfFeature
 
-## Running unit tests
+5. Open a pull request  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Contact:
+**Gauri Kangutkar**
+**Email: kangutkargauri9205@gmail.com**
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
